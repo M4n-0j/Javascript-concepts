@@ -1,0 +1,71 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0;
+    padding:0;
+    background-color: #E5E5E5;
+}
+.outline{
+    position: absolute;
+    height: 80vh;
+    width: 60vh;
+    top: 10vh;
+    left: 35vw;
+    background: #E5E5FD;
+    border:5px solid black;
+}
+img{
+    height: 130px;
+    width: 130px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    border-radius: 60px;
+}
+.name{
+    position: absolute;
+    top: 19%;
+    left: 49%;
+    font: initial;
+}
+.age{
+    position: absolute;
+    top:22%;
+    left: 76%;
+    font-size: smaller;
+}
+.missile-man .title{
+    
+    position: absolute;
+    top: 33%;
+    left: 4%;
+    font-size: 180%;
+    font-weight: bold;
+}
+.missile-man .content{
+    
+    position: absolute;
+    top: 41%;
+    left: 4%;
+    font-size: 50%;
+    width: 87%;
+}
+.part-1{
+    font-size: 7px;
+   
+}
+.Biographies{
+    
+    position: absolute;
+    top: 66%;
+    left: 3.5%;
+    font-size: small;
+    font-weight: bold;
+}
+.footer{
+    position: absolute;
+    top: 96%;
+    font-size: 8px;
+    right:2%;
+}
